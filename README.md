@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipannita Mondal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dity51028&label=Profile%20views&color=0e75b6&style=flat" alt="dity51028" /> </p>
+<p align="left"> <img src="assets/my.gif" alt="dity51028" /> </p>
 
 - 🌱 I’m currently learning **MERN stack**
 
